@@ -1,5 +1,5 @@
 
-<img src="../Banner.png">
+<img src="Banner.png">
 
 # Bradycat
 Bradycat is a Discord bot that combines many features in one bot.
