@@ -11,4 +11,4 @@ Bradycat is a Discord bot that combines many features in one bot.
 
 [![Twitter](https://img.shields.io/twitter/follow/BradycatBotEN?label=BradycatBot&style=for-the-badge&logo=twitter&color=1DA1F2)](https://twitter.com/BradycatBotEN)
 
-[![Discord](https://img.shields.io/badge/Discord-JOIN%20NOW-7289d9?style=for-the-badge&logo=discord)](https://discord.bradycat.me)
+[![Discord](https://img.shields.io/badge/Discord-JOIN%20NOW-7289d9?style=for-the-badge&logo=discord)](https://discord.bradycat.de)
